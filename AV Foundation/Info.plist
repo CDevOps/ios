@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>NSCameraUsageDescription</key>
-	<string>AV Foundation</string>
+	<string>For taking photos</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>AV Foundation</string>
+	<string>To store photos</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
